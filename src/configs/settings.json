@@ -1,0 +1,32 @@
+{
+  "prefix": ["."],
+  "guildID": "1061743360659955872",
+  "mongoUrl": "mongodb+srv://Darcard:Darcard@darcard.kxpnj.mongodb.net/Darcard?retryWrites=true&w=majority",
+  "owners": ["807188813616775168","746098815173525515"],
+  "botDurum": "女 Ash",
+  "botSes": "1062007240539779153",
+  "registerPerm": "1061743360718676037",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+
+  "messageCount": 1,
+  "messageCoin": 10,
+  "voiceCount": 1,
+  "voiceCoin": 10,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+  "banlimit": 3,
+  "jaillimit": 10,
+  "warnlimit": 10,
+  "chatmutelimit": 5,
+  "voicemutelimit": 5
+}
